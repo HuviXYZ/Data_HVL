@@ -10,7 +10,8 @@ public class B3_2 {
         Scanner sekundScanner = new Scanner(System.in); //opprettelse av scanner objektet
 
         System.out.println("hvor mange sekund?");
-        int sekundFraBruker = sekundScanner.nextInt();
+        int sekundFraBruker = sekundScanner.nextInt()
+
 
         int timer = (sekundFraBruker / 3600);
         int restEtterTimer = (sekundFraBruker % 3600);
