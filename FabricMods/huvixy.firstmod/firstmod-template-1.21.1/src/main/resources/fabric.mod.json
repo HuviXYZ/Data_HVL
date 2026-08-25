@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "applekiwi",
+	"id": "firstmod",
 	"version": "${version}",
-	"name": "AppleKiwi",
+	"name": "FirstMod",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
@@ -12,30 +12,20 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/applekiwi/icon.png",
+	"icon": "assets/firstmod/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.example.AppleKiwi"
-		],
-		"client": [
-			"com.example.client.AppleKiwiClient"
-		],
-		"fabric-datagen": [
-			"com.example.client.AppleKiwiDataGenerator"
+			"huvixy.firsmod.FirstMod"
 		]
 	},
 	"mixins": [
-		"applekiwi.mixins.json",
-		{
-			"config": "applekiwi.client.mixins.json",
-			"environment": "client"
-		}
+		"firstmod.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.19.3",
-		"minecraft": "~26.2",
-		"java": ">=25",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
 		"fabric-api": "*"
 	}
 }
