@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1861dedc-5586-4ae9-882a-8c2a786e08e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../27.08.2026/src/DEBUGG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../27.08.2026/src/Sjakk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bro Code Full Course follow/src/Constructiorssfolloww2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bro Code Full Course follow/src/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bro Code Full Course follow/src/bil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bro Code Full Course follow/src/biler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForrestKnightOOPfollow/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForrestKnightOOPfollow/src/inventory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000555668044" />
+      <entry key="S2" value="1.0480249236712098" />
+      <entry key="S5" value="1.6387700494347421" />
+      <entry key="S10" value="3.164583662841709" />
+      <entry key="S30" value="7.8509664335142695" />
+      <entry key="S60" value="10.679594524345838" />
+      <entry key="M2" value="12.607674910947585" />
+      <entry key="M5" value="13.98014828906132" />
+      <entry key="M10" value="14.47891764193862" />
+      <entry key="M15" value="14.650080261746286" />
+      <entry key="M30" value="14.823761041933627" />
+      <entry key="H1" value="14.91155822185605" />
+      <entry key="H2" value="14.955698218013936" />
+      <entry key="H4" value="14.977828845868185" />
+      <entry key="D1" value="14.996301989925744" />
+      <entry key="W1" value="14.999471643796872" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.6576119528362496E-26" />
+      <entry key="MS500" value="7.671818392932644E-6" />
+      <entry key="S2" value="0.05262893460052599" />
+      <entry key="S5" value="0.3079568235213349" />
+      <entry key="S10" value="0.554938576349973" />
+      <entry key="S30" value="0.8217662584050657" />
+      <entry key="S60" value="0.9065132422667997" />
+      <entry key="M2" value="0.9521098898062132" />
+      <entry key="M5" value="0.9805614843687034" />
+      <entry key="M10" value="0.9902330454840937" />
+      <entry key="M15" value="0.993478051448791" />
+      <entry key="M30" value="0.9967336913382585" />
+      <entry key="H1" value="0.9983655098901697" />
+      <entry key="H2" value="0.9991824207271511" />
+      <entry key="H4" value="0.9995911267749186" />
+      <entry key="D1" value="0.999931842850049" />
+      <entry key="W1" value="0.9999902629798686" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.02225078430620424" />
+      <entry key="MS500" value="0.46716603554943087" />
+      <entry key="S2" value="0.9112557228392918" />
+      <entry key="S5" value="1.821094068803506" />
+      <entry key="S10" value="3.6003325556330084" />
+      <entry key="S30" value="8.578476466382266" />
+      <entry key="S60" value="11.52363112883805" />
+      <entry key="M2" value="13.523485134356228" />
+      <entry key="M5" value="14.9447763898659" />
+      <entry key="M10" value="15.460929708157881" />
+      <entry key="M15" value="15.638019682700184" />
+      <entry key="M30" value="15.817696053374528" />
+      <entry key="H1" value="15.908516979355907" />
+      <entry key="H2" value="15.954175400453854" />
+      <entry key="H4" value="15.977066886849249" />
+      <entry key="D1" value="15.996174920235061" />
+      <entry key="W1" value="15.999453489108648" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3IiVTy2BDHthieOo6kz8rxh4FDd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/huvi/Documents/GitHub/Data_HVL/DAT100/Forelesning/01.09.2026",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <setting name="addClasspath" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1861dedc-5586-4ae9-882a-8c2a786e08e4" name="Changes" comment="" />
+      <created>1788247388870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788247388870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
